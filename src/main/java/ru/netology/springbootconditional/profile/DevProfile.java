@@ -1,4 +1,4 @@
-package springbootconditional.profile;
+package ru.netology.springbootconditional.profile;
 
 public class DevProfile implements SystemProfile {
     @Override

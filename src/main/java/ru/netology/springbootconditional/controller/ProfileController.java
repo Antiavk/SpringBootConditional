@@ -1,4 +1,4 @@
-package springbootconditional.controller;
+package ru.netology.springbootconditional.controller;
 
 import org.springframework.web.bind.annotation.*;
 import ru.netology.springbootconditional.profile.SystemProfile;
